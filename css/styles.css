@@ -38,7 +38,7 @@ body {
     font-style: normal;
 }
 
-.contact-mail {
+.contacts {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -48,25 +48,11 @@ body {
     letter-spacing: 0.02em;
 }
 
-.contact-mail:hover,
-.contact-mail:focus {
+.contacts:hover,
+.contacts:focus {
     color: #404bbf;
 }
 
-.contact-phone {
-    color: #434455;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5; 
-    letter-spacing: 0.02em;
-}
-
-.contact-phone:hover,
-.contact-phone:focus {
-    color: #404bbf;
-}
 
 /* Main page */
 
