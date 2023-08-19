@@ -7,7 +7,7 @@ body {
 /* Header page */
 
 .web-logo {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     color: #4D5AE5;
     font-size: 18px;
     font-style: normal;
@@ -96,7 +96,7 @@ body {
 
 .order-service-button:hover,
 .order-service-button:focus {
-    background-color; #404BBF;
+    background-color: #404BBF;
 }
 
 .order-service-button {
